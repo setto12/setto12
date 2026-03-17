@@ -1,8 +1,8 @@
 ## Hello
 
-##I am Setto, a Full Stack Developer
+I am Setto, a Full Stack Developer
 
-#My Tech Stack includes:
+My Tech Stack includes:
 - Next JS
 - React JS
 - FastAPI
