@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hello, 👋
 
+I am Setto, a Full Stack Developer
+
+My Tech Stack includes:
+- Next JS
+- React JS
+- FastAPI
+- Flask
+- PostgreSQL
+- Supabase
 <!--
 **setto12/setto12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
